@@ -5,6 +5,13 @@ type: docs
 
 # I will create a rpg based discord bot
 
+{{<figure 
+    link="https://fiverr.com"
+    target="_blank"
+    width=450
+    src="https://res.cloudinary.com/hiremap/image/upload/v1641266719/Fiverr-Logo_d4vtxo.webp"
+  >}}
+
 {{< columns >}}
 ## Full featured
 
