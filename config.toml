@@ -1,6 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Discord RPG Bot'
+theme = "hugo-book"
 
 [build]
   publish = "public"
