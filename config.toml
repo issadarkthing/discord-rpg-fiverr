@@ -4,8 +4,15 @@ title = 'Discord RPG Bot'
 theme = "hugo-book"
 
 [build]
-  publish = "public"
   command = "hugo --gc --minify"
+
+
+[[menu.main]]
+  identifier = "docs"
+  name = "docs"
+  title = "docs"
+  url = "/"
+  weight = 10
 
 [context.production.environment]
   HUGO_VERSION = "0.91.2"
