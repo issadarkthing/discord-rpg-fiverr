@@ -5,7 +5,8 @@ type: docs
 
 
 # Armors and Weapons
-Armors and weapons can be bought from shop.
+Armors and weapons can be bought from shop. Both of these can be equipped by
+using `!inventory` command.
 
 {{< figure
   src="https://res.cloudinary.com/hiremap/image/upload/v1641259350/screenshot-04-01-2022_09_14_43_ewt13s.png" 
