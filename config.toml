@@ -1,7 +1,8 @@
-baseURL = 'http://discordrpg.com/'
-languageCode = 'en-us'
-title = 'Discord RPG Bot'
+baseURL = "http://discordrpg.com/"
+languageCode = "en-us"
+title = "Discord RPG Bot"
 theme = "hugo-book"
+googleAnalytics = "G-YMEW5BY03V"
 
 [build]
   command = "hugo --gc --minify"
