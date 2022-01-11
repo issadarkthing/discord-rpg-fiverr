@@ -8,7 +8,7 @@ title: "Packages"
 # Packages
 
 {{< figure
-src="https://res.cloudinary.com/hiremap/image/upload/v1640937270/rpg_bot_pricing_plan_cywfmh.png" >}}
+src="https://res.cloudinary.com/hiremap/image/upload/v1641871259/discordrpg_pricing_plan_disnuv.png" >}}
 
 
 There are 3 different packages offered in this gig  {{< button
@@ -24,7 +24,7 @@ RPG bot. This package is **recommended** for a small sized server.
 
 <--->
 
-## Standard ($200)
+## Standard ($150)
 
 Standard package offers a bit more features than the basic package. Pet & Skill
 features will definitely spice up the battle in the RPG bot. Also starting
@@ -32,7 +32,7 @@ from this package, 1-month free hosting is provided.
 
 <--->
 
-## Premium ($300)
+## Premium ($200)
 
 Premium package includes **all** the features from standard and basic packages.
 This package also adds 3 more features than the standard package which are duel,
